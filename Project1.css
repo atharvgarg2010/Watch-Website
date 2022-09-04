@@ -1,0 +1,31 @@
+.main{
+    height: 350px;
+    width:800px;
+    background-color:lavender;
+    border-radius: 20px;
+    margin: 100px auto;
+    color: rgb(88, 87, 87);
+    padding: 20px 60px;
+    border: 2px solid black;
+}
+.main button{
+    background-color:rgb(0, 110, 255);
+    height: 50px;
+    font-family: 'Fira Sans', sans-serif;
+    border-radius: 10px;
+    border: 2px solid rgb(5, 102, 230);
+    
+}
+.main button:hover{
+    background-color: rgb(3, 89, 202);
+}
+nav h3{
+    /* background-color: lavender; */
+    font-family: 'Roboto Slab', serif;
+}
+
+
+
+body{
+    background: linear-gradient(rgb(0, 255, 200),rgb(0, 225, 255));
+}
